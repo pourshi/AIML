@@ -1,15 +1,1 @@
-do
-msgbox("Hello You are being watched ....know more by clicking ok")
-do
-msgbox("Hi sorry you cant do anything")
-do
-msgbox("Virus found")
-do 
-msgbox("Scan failed")
-do
-msgbox("shuting down system")
-loop
-loop
-loop
-loop
-loop
+Hello git hub
